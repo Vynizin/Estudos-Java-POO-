@@ -4,7 +4,7 @@ Repositório criado para registrar minha evolução no aprendizado de Java e Pro
 
 ## Fundamentos
 
-* [ ] Calculadora
+* [x] Calculadora
 * [ ] Conversor de Temperatura
 * [ ] Par ou Ímpar
 * [ ] Tabuada
